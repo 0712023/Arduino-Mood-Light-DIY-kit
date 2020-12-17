@@ -46,8 +46,7 @@
 - 블루투스를 활용한 무드등 색 제어<br>
 <img src="https://i.imgur.com/Ap9dDi0.png" width=500><br>
 - 무드등 완성 작품 및 경연대회<br>
-<img src="https://i.imgur.com/JBeIsJD.jpg" width=250>
-<img src="https://i.imgur.com/EgPQHyC.jpg" width=250><br>
+<img src="https://i.imgur.com/JBeIsJD.jpg" width=250><img src="https://i.imgur.com/EgPQHyC.jpg" width=250><br>
 - 현장분위기<br>
 <img src="https://i.imgur.com/aoKyQXV.jpg" width=500><br>
 
