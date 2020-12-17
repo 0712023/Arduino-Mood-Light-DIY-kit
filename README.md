@@ -8,17 +8,48 @@
 - 일상 속에서 자주 쓰일 수 있는 소재인 무드등을 활용하여 멘티들에게 좀 더 편하게 다가갈 수 있었고 led의 빛 밝기 및 색 조절 프로그래밍을 통해 팀별로 각자의 무드등을 설계하는 재미 또한 더했습니다. 팀별로 교육을 통해 간단한 과자 등을 상으로 걸고 최종 경연 대회를 진행하여 프로그램의 몰입감이 한층 높아졌습니다.
 ### Tools
 - <a href="https://www.arduino.cc/en/Guide/ArduinoUno">Arduino Uno</a><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width = 100>
-- Mood Light Kit
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width = 100><br>
+전 세계에서 가장 강력하고 널리 쓰이는 오픈소스 하드웨어인 아두이노 우노는 센서 제어 및 간단한 IoT환경 프로그래밍에 최적화된 기기입니다. 이 프로젝트에서 아두이노 우노보드를 활용하여 무드등의 led를 다양한 방식으로 제어했습니다.<br><br>
+- 무드등 Kit<br>
+시중에서 판매되는 교육용 DIY 무드등 kit입니다. 이 kit안에는 아두이노 우노보드를 포함하여 breadboard, 케이블, led, 습도 센서, 터치 센서 등 다양한 IoT 센서 및 소자가 포함되어 있으므로 학생들에게 교육용으로 적합했습니다.<br><br>
 - <a href="http://snap4arduino.rocks/">Snap4Arduino</a><br>
-<img src="http://snap4arduino.rocks/img/logo.png">
+<img src="http://snap4arduino.rocks/img/logo.png"><br>
+온라인 블록코딩을 활용해 학생들에게 코딩의 기초 개념을 알려주었습니다. 코딩이라는 게 처음 접했을 때 생소함 때문에 선뜻 와닿지 않는 경우가 있는데, 흔히 갖고 놀던 블럭놀이처럼 if문, for문, 변수, 대소비교 등 다양한 기초 코드를 블럭을 조립하듯 완성할 수 있었습니다.<br>
+<img src="https://i.imgur.com/sguXikQ.png" width= 300><br><br>
 - C
+
 ## Project Details
+1. Potentiometer / 가변저항
+  - 가변 저항을 이용해 led의 밝기를 변화
+2. RGB1
+  - 1초마다 R / G / B 색 변화
+3. RGB2
+  - 원하는 색으로 NeoPixel led 사용
+4. Touchsensor
+  - 터치 센서를 활용해 스위치로써 제어
+5. DHT11 / 온습도계
+  - 일정 온도 및 습도 환경에서 켜지는 무드등
+6. Cds / 조도 센서
+  - 일정 빛 세기 이하에서 켜지는 무드등
+7. Ultra / 초음파 센서
+  - 일정 거리 안의 물체를 감지하면 켜지는 무드등
+8. Chapter1_RGBLED
+  - LED를 무지개 색깔로 표현
+9. Chapter2_Sensor
+  - 다양한 센서를 활용한 무드등
+10. Chapter3_Bluetooth
+  - 블루투스를 활용하여 무드등 색 변경
+11. MoodLight
+  - 최종 무드등 완성 코드
 
 ## Demo
+- 블루투스를 활용한 무드등 색 제어<br>
+<img src="https://i.imgur.com/Ap9dDi0.png" width=500><br>
 - 무드등 완성 작품 및 경연대회<br>
-<img src="https://i.imgur.com/JBeIsJD.jpg" width=300>
-<img src="https://i.imgur.com/EgPQHyC.jpg" width=300><br>
+<img src="https://i.imgur.com/JBeIsJD.jpg" width=250>
+<img src="https://i.imgur.com/EgPQHyC.jpg" width=250><br>
 - 현장분위기<br>
-<img src="https://i.imgur.com/aoKyQXV.jpg" width=600><br>
+<img src="https://i.imgur.com/aoKyQXV.jpg" width=500><br>
+
 ## Review
+제가 처음 프로그래밍을 접한 때는 스마트팩토리 시스템을 구축하는 <a href="https://github.com/0712023/S_Hero">S-Hero</a> 프로젝트였습니다. 이 프로젝트를 통해 프로그래밍에 흥미와 재능이 있다는 것을 알 수 있었고, 지금까지도 이 프로젝트에 참여하기를 권유했던 <a href="https://github.com/alsrjs2441">친구</a>에게 감사하게 생각하고 있습니다. 이처럼 이 멘토링 프로젝트를 통해 한 명의 멘티라도 프로그래밍에 대해 흥미를 느낄 수 있었다면 이 프로그램은 성공했다고 생각합니다. 앞으로 많은 학생들이 프로그래밍의 재미에 푹 빠질 수 있다면 좋겠습니다.
