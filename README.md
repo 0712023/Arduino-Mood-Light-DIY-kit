@@ -1,0 +1,24 @@
+# Arduino Mood Light
+- 행사명 : 2019 대학생 재능봉사 캠프
+- 주최 : <a href="https://www.kosaf.go.kr/">한국 장학재단</a>
+- 진행 기간 : '19.8.5 ~ '19.8.9
+- 내용 : 한국장학재단에서 매년 주최하는 대학생 재능봉사 캠프에 참여하여 고등학생 멘티들에게 대학 진로에 대한 조언, 대학 생활에 대한 궁금증을 해소해 주는 등의 다양한 프로그램을 진행했습니다. 각각의 프로그램들은 나만의 공부 방법, 대학 학과 소개와 같이 개인 발표 프로그램과, ‘너의 꿈을 보여줘’, ‘힐링 토크 콘서트’ 등 팀워크 프로그램도 있었습니다.
+## Project Synopsis
+- 약 일주일간의 멘토링 기간 동안 진행했던 다양한 프로그램 중 '아두이노를 활용한 DIY 무드등 만들기'가 가장 핵심 프로그램이었습니다. 아두이노 및 코딩이 생소할 수도 있는 고등학생들에게 보다 가시적이고 직관적인 블록코딩을 활용하여 진입 장벽을 낮추는 데 초점을 맞추었습니다.
+- 일상 속에서 자주 쓰일 수 있는 소재인 무드등을 활용하여 멘티들에게 좀 더 편하게 다가갈 수 있었고 led의 빛 밝기 및 색 조절 프로그래밍을 통해 팀별로 각자의 무드등을 설계하는 재미 또한 더했습니다. 팀별로 교육을 통해 간단한 과자 등을 상으로 걸고 최종 경연 대회를 진행하여 프로그램의 몰입감이 한층 높아졌습니다.
+### Tools
+- <a href="https://www.arduino.cc/en/Guide/ArduinoUno">Arduino Uno</a><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width = 100>
+- Mood Light Kit
+- <a href="http://snap4arduino.rocks/">Snap4Arduino</a><br>
+<img src="http://snap4arduino.rocks/img/logo.png">
+- C
+## Project Details
+
+## Demo
+- 무드등 완성 작품 및 경연대회<br>
+<img src="https://i.imgur.com/JBeIsJD.jpg" width=300>
+<img src="https://i.imgur.com/EgPQHyC.jpg" width=300><br>
+- 현장분위기<br>
+<img src="https://i.imgur.com/aoKyQXV.jpg" width=600><br>
+## Review
