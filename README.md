@@ -1,4 +1,4 @@
-# Arduino Mood Light
+# Arduino Mood Light DIY kit
 - 행사명 : 2019 대학생 재능봉사 캠프
 - 주최 : <a href="https://www.kosaf.go.kr/">한국 장학재단</a>
 - 진행 기간 : '19.8.5 ~ '19.8.9
